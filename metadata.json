@@ -1,0 +1,8 @@
+{
+  "name": "Será Cacau | Vaga Closer de Vendas",
+  "description": "Página de recrutamento de Closer de Vendas B2B de alta performance para a Será Cacau.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
